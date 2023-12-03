@@ -1,3 +1,4 @@
+Link to demo: https://www.loom.com/share/8c3c728e06354cf4a4f305c9fa926484?sid=aca16896-eaa2-49ca-ade3-ad5182ca0b54 
 # Stock Sentiment Analysis App
 
 This is a Streamlit web application for analyzing stock sentiment using Natural Language Processing (NLP) techniques. The application fetches news articles related to a given stock symbol, performs sentiment analysis, and provides visualizations for user interpretation.
